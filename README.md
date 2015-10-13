@@ -16,6 +16,8 @@
   Last name:<br>
   <input type="text" name="lastname">
 </form>
+<p>Save all work done as a copyright &#169, registered &#174 or trademark &#8482</p>
+<p>Additionally, if you &#9829 card games to while away the swealtering afternoons, play a cool  game of &#9824 Spades, &#9827 Clubs, &#9829 Hearts, and &#9830 Diamonds</p>
 
 </body>
 </html>
