@@ -6,8 +6,8 @@
 </head>
 <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+<h1>Getting into HTML</h1>
+<p>As a base, add functionality with CSS, JavaScript</p>
 
 </body>
 </html>
